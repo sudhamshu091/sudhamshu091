@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My activities after July 5 2020 appear here
 
 <!--
 **sudhamshu091/sudhamshu091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
