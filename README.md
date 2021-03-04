@@ -1,8 +1,5 @@
-#### Hi there 👋 My activities after July 5 2020 appear here
+#### Hi there 👋 My activities appear here
 - 🌱 I’m an Electronics engineering student at Dayananda Sagar College of Engineering,Bangalore
-- 💬 Ask me about Electronics
-- 📫 How to reach me: email:sudhamshubn00@gmail.com,sudhamshubn01@gmail.com,sudhamshubn001@outlook.com and 1ds18ec091@dsce.edu.in<br>
-- 👯 Visit my another <a href=https://github.com/sudhamshubn01>Github account</a> 
+- 💬 Ask me about <code>Electronics</code>
+- 📫 How to reach me: email:<code>sudhamshubn00@gmail.com</code>,<code>sudhamshubn01@gmail.com</code>,<code>sudhamshubn001@outlook.com</code> and <code>1ds18ec091@dsce.edu.in</code><br>
 - 🔭 My <a href=https://www.linkedin.com/in/sudhamshu-b-n-760bb7171/>Linkedin Profile</a>
-- 😄
-- ⚡ 
