@@ -6,5 +6,3 @@
 - 🔭 My <h4><a href=https://www.linkedin.com/in/sudhamshu-b-n-760bb7171/><code>Linkedin Profile</code></a></h4><br>
 - 🔭  <h4><a href=https://github.com/sudhamshu091/Python-Solutions-for-LeetCode><code>Leetcode Solutions </code></a></h4> and <h4><a href=https://www.leetcode.com/Sudhamshu091/><code>Leetcode Profile </code></a></h4>
 - 📫 Visit <h4><a href="https://sudhamshu091.github.io/tourismindia"><code>Tourism India Webpage</code></a></h4>
-- My Github Stats:<br>
-![Sudhamshu's Repository's Stats](https://github-readme-stats.vercel.app/api?username=Sudhamshu091&show_icons=true)<br>
