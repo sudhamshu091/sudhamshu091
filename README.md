@@ -6,3 +6,4 @@
 - 🔭 My <h4><a href=https://www.linkedin.com/in/sudhamshu-b-n-760bb7171/><code>Linkedin Profile</code></a></h4><br>
 - 📫 Visit <h4><a href="https://sudhamshu091.github.io/tourismindia"><code>Tourism India Webpage</code></a></h4>
 - 🔭 <h4><a href=https://youtube.com/channel/UCVmz-E_TdHmItBfqy-ipkWQ><code>Youtube videos</code></a></h4><br>
+- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sudhamshu091&theme=highcontrast&show_icons=true&count_private=true)
