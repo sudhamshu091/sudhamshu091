@@ -1,5 +1,6 @@
 #### Hi there 👋 Sudhamshu B N here
 - 🌱 BE, Electronics and Communication (2018-2022)
+- 🌱 Intel InnovateFPGA 2021-22 Iron Award Winner, Asia Pacific & Japan Regional Finals Winner
 - 💬 Ask me about <code><b>Electronics</b></code>
 - 💬 Skills <code><b>Verilog, System Verilog Basics, Java, OOP, Python, Matlab, TCL</b></code>
 - 💬 Tools <code><b>Intel Quartus Prime, Xilinx, Linux, Bash, Scripting</b></code>
