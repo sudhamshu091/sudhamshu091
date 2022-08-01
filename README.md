@@ -1,6 +1,6 @@
 #### Hi there 👋 Sudhamshu B N here
 - 🌱 BE, Electronics and Communication (2018-2022)
-- 💬 Ask me about <code><b>Electronics, VLSI</b></code>
+- 💬 Ask me about <code><b>Electronics</b></code>
 - 💬 Skills <code><b>Verilog, System Verilog Basics, Java, OOP, Python, Matlab, TCL</b></code>
 - 💬 Tools <code><b>Intel Quartus Prime, Xilinx, Linux, Bash, Scripting</b></code>
 - 💬 Interests <code><b>VLSI, Frontend RTL, DFT, Pre Silicon Validation</b></code>
